@@ -1,2 +1,0 @@
-# DormCampus
-Startup Dormitory Campus
